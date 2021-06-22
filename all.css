@@ -1,0 +1,10 @@
+@media screen and (max-width: 576) {
+    .smallgg{
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width: 960) {
+    .smallgg{
+        display: none;
+    }
+}

@@ -1,0 +1,15 @@
+.bg-darkgray{
+    background-color: 	#F0F0F0;
+    color: white;
+}
+
+.search{
+    border-radius: 30px;
+}
+
+.smallgg{
+    padding: 50px;
+    background-color: pink;
+    color: white;
+    width:auto;
+}
